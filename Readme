@@ -3,13 +3,13 @@
 Our dataset consists of simultaneous multimodal data collected from smart insoles equipped with CapSense (pressure) and IMU sensors, and is designed to estimate 3D ground reaction forces (3D GRFs) in a variety of sports. 
 The dataset consists of time-aligned CapSense pressure data, accelerometer and gyroscope readings for the left and right foot, collected at a frequency of approximately 100 Hz. In addition, corresponding ground-truth 3D GRF measurements were obtained using a force plate, providing a comprehensive and accurate basis for training and validating machine learning models.
 
-
--{Squatting}: Execute squats by lowering the thighs until they are parallel to the ground and then standing up.
--{Stepping in Place}: Stepping by alternately lifting each foot while remaining in place.
--{Running in Place}: Running by alternately lifting each foot while maintaining a steady pace.
--{Swaying Left and Right}: Shift weight from one foot to the other by leaning left and right, holding each position for about 1 second.
--{Jumping in Place}: Perform small, controlled jumps with both feet leaving the ground simultaneously and landing softly.
--{Jumping forward and backward}: Perform controlled jumps with both feet repeat forward and backward.
+The dataset contains the following six human movements：
+-Squatting: Execute squats by lowering the thighs until they are parallel to the ground and then standing up.
+-Stepping in Place: Stepping by alternately lifting each foot while remaining in place.
+-Running in Place: Running by alternately lifting each foot while maintaining a steady pace.
+-Swaying Left and Right: Shift weight from one foot to the other by leaning left and right.
+-Jumping in Place: Perform small, controlled jumps with both feet leaving the ground simultaneously and landing softly.
+-Jumping forward and backward: Perform controlled jumps with both feet repeat forward and backward.
 
 
 ![Image](https://github.com/tg0uk/Smart_Insole_Database/raw/main/img/Data_viz_final.png)

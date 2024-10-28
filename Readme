@@ -5,4 +5,4 @@ The dataset consists of time-aligned CapSense pressure data, accelerometer and g
 In addition, corresponding ground-truth 3D GRF measurements were obtained using a force plate, providing a comprehensive and accurate basis for training and validating machine learning models.
 
 
-![image](https://github.com/tg0uk/Smart_Insole_Database/blob/main/img/Data_viz_final.png)
+![Image](https://github.com/tg0uk/Smart_Insole_Database/blob/main/img/Data_viz_final.png)

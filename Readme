@@ -1,3 +1,5 @@
-Our dataset consists of simultaneous multimodal data collected from smart insoles equipped with CapSense (pressure) and IMU sensors, and is designed to estimate 3D ground reaction forces (3D GRFs) in a variety of sports. The dataset consists of time-aligned CapSense pressure data, accelerometer and gyroscope readings for the left and right foot, collected at a frequency of approximately 100 Hz. In addition, corresponding ground-truth 3D GRF measurements were obtained using a force plate, providing a comprehensive and accurate basis for training and validating machine learning models.
 
+
+Our dataset consists of simultaneous multimodal data collected from smart insoles equipped with CapSense (pressure) and IMU sensors, and is designed to estimate 3D ground reaction forces (3D GRFs) in a variety of sports. The dataset consists of time-aligned CapSense pressure data, accelerometer and gyroscope readings for the left and right foot, collected at a frequency of approximately 100 Hz. In addition, corresponding ground-truth 3D GRF measurements were obtained using a force plate, providing a comprehensive and accurate basis for training and validating machine learning models.
+https://github.com/tg0uk/Smart_Insole_Database/blob/main/img/Data_viz_final.png
 

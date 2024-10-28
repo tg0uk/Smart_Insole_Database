@@ -11,6 +11,9 @@ The dataset contains the following six human movements：
 -Jumping in Place: Perform small, controlled jumps with both feet leaving the ground simultaneously and landing softly.
 -Jumping forward and backward: Perform controlled jumps with both feet repeat forward and backward.
 
+A total of five healthy adult males participated in this study, each successfully completing all six activities as outlined in the designated motion protocol. 
+Each trial lasted approximately 5 minutes, with data collected at a sampling frequency of approximately 100 Hz from both the smart insole and the force plate. 
+This resulted in the acquisition of around 1,600,000 paired samples for both the left and right foot across all six movements.
 
 ![Image](https://github.com/tg0uk/Smart_Insole_Database/raw/main/img/Data_viz_final.png)
 
